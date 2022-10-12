@@ -42,7 +42,7 @@ AT first I strart in HTML, and then continue in CSS. I knew some different tags 
 
 ## Author
 
-- Linkdin -[@natiakhokhobashvili] (https://www.linkedin.com/in/natia-khokhobashvili-4b960b1b2/)
+- Linkedin -[@natiakhokhobashvili] (https://www.linkedin.com/in/natia-khokhobashvili-4b960b1b2/)
 
 
 
