@@ -20,7 +20,7 @@ I am just a begginer. However this challange shows my new skill in HTML and CSS.
 
 ### Screenshot
 
-![](/screenshot/screenshot.jpg)
+![](/screenshot.jpg)
 
 
 
